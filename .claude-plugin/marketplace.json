@@ -1,12 +1,16 @@
 {
   "name": "lutains",
   "owner": {
-    "name": "Lutains"
+    "name": "Lutains",
+    "email": "aymeric@lutains.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "copywriting-plugin",
-      "source": "./plugins/copywriting-plugin",
+      "source": "./copywriting-plugin",
       "description": "A persona-driven copywriting assistant for crafting high-converting landing pages."
     }
   ]
