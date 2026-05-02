@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lutains": {
+      "type": "http",
+      "url": "https://agents.staging.lutains.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${LUTAINS_API_TOKEN}"
+      }
+    }
+  }
+}
