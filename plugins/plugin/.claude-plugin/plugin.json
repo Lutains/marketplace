@@ -1,14 +1,14 @@
 {
-  "name": "copywriting-plugin",
+  "name": "plugin",
   "description": "A persona-driven copywriting assistant for crafting high-converting landing pages.",
   "version": "1.0.0",
   "author": {
     "name": "Aymeric Aveline",
     "email": "aymeric@lutains.com",
-    "url": "https://github.com/Lutains/marketplace/copywriting-plugin"
+    "url": "https://github.com/Lutains/marketplace/plugin"
   },
   "keywords": ["keyword1", "keyword2"],
-  "homepage": "https://github.com/Lutains/marketplace/copywriting-plugin",
+  "homepage": "https://github.com/Lutains/marketplace/plugin",
   "repository": "https://github.com/Lutains/marketplace",
   "userConfig": {
     "api_token": {
