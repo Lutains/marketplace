@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "copywriting-plugin",
-      "source": "./plugins/copywriting-plugin",
+      "name": "plugin",
+      "source": "./plugins/plugin",
       "description": "A persona-driven copywriting assistant for crafting high-converting landing pages."
     }
   ]
