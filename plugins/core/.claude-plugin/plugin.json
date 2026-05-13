@@ -1,14 +1,14 @@
 {
-  "name": "plugin",
-  "description": "A persona-driven copywriting assistant for crafting high-converting landing pages.",
+  "name": "core",
+  "description": "Lutains core plugin — AI-powered landing page optimization with persona-driven copywriting, CRO analysis, and more.",
   "version": "1.0.0",
   "author": {
     "name": "Aymeric Aveline",
     "email": "aymeric@lutains.com",
-    "url": "https://github.com/Lutains/marketplace/plugin"
+    "url": "https://github.com/Lutains/marketplace"
   },
   "keywords": ["keyword1", "keyword2"],
-  "homepage": "https://github.com/Lutains/marketplace/plugins/plugin",
+  "homepage": "https://github.com/Lutains/marketplace",
   "repository": "https://github.com/Lutains/marketplace",
   "userConfig": {
     "api_token": {

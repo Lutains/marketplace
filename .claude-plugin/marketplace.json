@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "plugin",
-      "source": "./plugins/plugin",
-      "description": "A persona-driven copywriting assistant for crafting high-converting landing pages."
+      "name": "core",
+      "source": "./plugins/core",
+      "description": "AI-powered landing page optimization — persona-driven copywriting, CRO analysis, and more."
     }
   ]
 }
