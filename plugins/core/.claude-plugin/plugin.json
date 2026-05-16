@@ -9,13 +9,5 @@
   },
   "keywords": ["keyword1", "keyword2"],
   "homepage": "https://github.com/Lutains/marketplace",
-  "repository": "https://github.com/Lutains/marketplace",
-  "userConfig": {
-    "api_token": {
-      "type": "string",
-      "title": "Token API Lutains",
-      "description": "Disponible sur votre espace Lutains",
-      "sensitive": true
-    }
-  }
+  "repository": "https://github.com/Lutains/marketplace"
 }
