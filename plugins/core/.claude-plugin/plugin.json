@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "lutains-core",
   "description": "Lutains core plugin — AI-powered landing page optimization with persona-driven copywriting, CRO analysis, and more.",
   "version": "1.0.0",
   "author": {
@@ -7,7 +7,6 @@
     "email": "aymeric@lutains.com",
     "url": "https://github.com/Lutains/marketplace"
   },
-  "keywords": ["keyword1", "keyword2"],
   "homepage": "https://github.com/Lutains/marketplace",
   "repository": "https://github.com/Lutains/marketplace"
 }

@@ -1,14 +1,23 @@
 {
   "name": "lutains",
+  "version": "1.0.0",
+  "description": "Lutains Skills Marketplace - AI-powered landing page optimization using real customer feedback.",
   "owner": {
     "name": "Lutains",
     "email": "aymeric@lutains.com"
   },
   "plugins": [
     {
-      "name": "core",
+      "name": "lutains-core",
       "source": "./plugins/core",
-      "description": "AI-powered landing page optimization — persona-driven copywriting, CRO analysis, and more."
+      "description": "AI-powered landing page optimization — persona-driven copywriting, CRO analysis, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Lutains Team",
+        "email": "aymeric@lutains.com"
+      },
+      "category": "productivity",
+      "tags": ["copywriting", "cro", "landing-pages", "personas", "reddit"]
     }
   ]
 }
