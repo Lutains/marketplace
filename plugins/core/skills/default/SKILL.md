@@ -62,11 +62,12 @@ Whenever you display Agents or interact with them, apply these rules:
 
 All tools are accessed via the `lutains` MCP server.
 
-| Tool              | Purpose                                        |
-| ----------------- | ---------------------------------------------- |
-| `get_agents`      | List all available customer agents             |
-| `update_agents`   | Update a pain point for a specific agent       |
-| `chat_with_agent` | Start or continue a conversation with an agent |
+| Tool                     | Purpose                                                         |
+| ------------------------ | --------------------------------------------------------------- |
+| `get_agents`             | List all available customer agents                              |
+| `update_agents`          | Update a pain point for a specific agent                        |
+| `chat_with_client_agent` | Start or continue a conversation with an agent                  |
+| `chat_with_tim`          | Start or continue a conversation with Tim, an expert copywriter |
 
 ## Troubleshooting
 
