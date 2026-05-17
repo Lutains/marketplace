@@ -2,7 +2,7 @@
   "mcpServers": {
     "lutains": {
       "type": "http",
-      "url": "https://agents.staging.lutains.com/mcp"
+      "url": "https://agents.lutains.com/mcp"
     }
   }
 }
