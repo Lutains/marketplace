@@ -1,6 +1,7 @@
 ---
 name: copy
-description: Analyzes and optimizes landing pages with Tim (System CRO expert) and Reddit personas (client agents). Handles 3 distinct modes: Tim-led full analysis, direct chat with a persona, or direct chat with Tim. Use when the user requests landing page analysis, CRO, copywriting optimization, or a direct chat from the project action menu.
+description: Analyzes and optimizes landing pages with Tim (System CRO expert) and Reddit personas (client agents). Handles 3 distinct modes (Tim-led full analysis, Direct chat with a persona, Direct chat with Tim). 
+Use when the user requests landing page analysis, CRO, copywriting optimization, or a direct chat from the project action menu.
 ---
 
 # Lutains Copywriting
